@@ -1,1 +1,4 @@
-/docker-setup/data/ny_taxi
+docker-setup/data/
+docker-setup/ipynb_checkpoints/
+.ipynb-checkpoints
+docker-setup/yellow_tripdata_2024-01.parquet
